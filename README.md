@@ -24,5 +24,5 @@ On [Linkedin](https://www.linkedin.com/in/americoleonardo/) and [Medium](https:/
 </a>
 </a>
   <a href="https://www.credential.net/172d349a-25ca-4fcd-a774-dfc672fee404" target="_blank" title="Google Cloud Certified - Professional Cloud Architect">
-  <img src="https://github.com/americoleonardo/badges/blob/main/gcp-architect-professional.png" alt="Google Cloud Certified - Professional Cloud Architect" width="150">
+  <img src="https://github.com/americoleonardo/badges/blob/main/gcp-cloud-architect.png" alt="Google Cloud Certified - Professional Cloud Architect" width="150">
 </a>
