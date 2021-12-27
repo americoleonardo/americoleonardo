@@ -22,3 +22,7 @@ On [Linkedin](https://www.linkedin.com/in/americoleonardo/) and [Medium](https:/
 <a href="https://badgr.com/public/assertions/-a_c9lHbQaexUybQgeliFw?identity__email=leonardoakeisman@gmail.com" target="_blank" title="Gitlab Certified Associate">
   <img src="https://github.com/americoleonardo/badges/blob/main/gitlab-associate.png" alt="Gitlab Certified Associate" width="150">
 </a>
+</a>
+  <a href="https://www.credential.net/172d349a-25ca-4fcd-a774-dfc672fee404" target="_blank" title="Google Cloud Certified - Professional Cloud Architect">
+  <img src="https://github.com/americoleonardo/badges/blob/main/gcp-architect-professional.png" alt="Google Cloud Certified - Professional Cloud Architect" width="150">
+</a>
