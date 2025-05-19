@@ -1,10 +1,8 @@
 ### Hello everyone 👋
 
-I started my IT career in 2009 supporting small companies with windows server. This job I was service desk Level 2 support analyst. From next years I specialized in different areas of modern software development.
+I started my IT career in 2009 supporting small companies with windows server as a support analyst. Over the years I was in different areas delivering modern software development using the most known technologies and methodologies for reliable systems for payment companies.
 
-On the present, I work as a Software Architect at Sensedia. Here my main goal is to deliver event-driven software solutions using microservices in large scale environments, with a focus on online payment companies. 
-
-My main goal is to deliver event-oriented software solutions with microservices in large scale environments, architecture and APIs focused on online payment companies.
+Actually, I`m Lead Architect at ADP. My primary goal is to deliver software solutions that adhere to the best practices of cloud-native applications and lead various teams to achieve project objectives.
 
 On [Linkedin](https://www.linkedin.com/in/americoleonardo/) and [Medium](https://leonardoamerico.medium.com/), I like to share some experiences about some projects and laboratories.
 
